@@ -1,0 +1,4 @@
+
+*** Running vivado
+    with args -log test1.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source test1.tcl
+
